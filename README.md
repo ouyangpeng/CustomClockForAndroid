@@ -1,6 +1,8 @@
 ﻿# CustomClock(自定义时钟)
 
+Android自定义控件之圆形时钟    https://www.jianshu.com/p/3b789490fc04
 
+Android自定义控件之圆形时钟（续） https://www.jianshu.com/p/c2abd6226897
 
 ##**Introduction**
 This is a simple demo to show you a custom clock in android.If you want to use it in your project,you can copy the "TimeView",and "attrs" files from this demo.Few days later,I will commit it to maven repository.
